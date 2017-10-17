@@ -15,10 +15,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 @Service
-public class DiscardServer {
+public class NettyServer {
     private final ServerBootstrap serverBootstrap;
 
-    public DiscardServer(ServerBootstrap serverBootstrap) {
+    public NettyServer(ServerBootstrap serverBootstrap) {
         this.serverBootstrap = serverBootstrap;
     }
 
