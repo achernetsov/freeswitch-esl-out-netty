@@ -8,8 +8,14 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>freeswitch-esloutbound-springboot</name>
-	<description>Demo project for Spring Boot</description>
+	<name>freeswitch-esl-out-netty</name>
+	<description>Freeswitch ESL outbound with Spring Boot and Netty</description>
+	<developers>
+		<developer>
+			<name>Artyom Chernetsov</name>
+			<email>chernetsov.artyom@gmail.com</email>
+		</developer>
+	</developers>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
