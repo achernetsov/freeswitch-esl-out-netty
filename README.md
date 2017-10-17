@@ -2,8 +2,8 @@
 Example of spring boot application with netty for transport, 
 interacting with Freeswitch using [ESL outbound](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Outbound)
 
-See [Netcat Example](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Outbound#EventSocketOutbound-UsingNetcat)
-Use same diaplan to connect this application.
+See [Netcat Example](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Outbound#EventSocketOutbound-UsingNetcat); 
+Use same diaplan to connect FS to this application.
 
 # Dependencies
 Spring used for Spring Boot and DI
