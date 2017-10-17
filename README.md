@@ -5,11 +5,12 @@ interacting with Freeswitch using [ESL outbound](https://freeswitch.org/confluen
 See [Netcat Example](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Outbound#EventSocketOutbound-UsingNetcat)
 Use same diaplan to connect this application.
 
-## Dependencies
+# Dependencies
 Spring used for Spring Boot and DI
+
 Netty used for transport
 
-# Detailed instruction
+# Instruction
 1. Create dialplan extension, like so:
 ```$xslt
     <extension name="callToSpringApp">
