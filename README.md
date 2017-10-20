@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/achernetsov/freeswitch-esl-out-netty/total.svg)]()
+
 # Overview
 Example of spring boot application with netty for transport, 
 interacting with Freeswitch using [ESL outbound](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Outbound)
